@@ -6,7 +6,7 @@
 
 This api allows you to use GET and POST methods to read and submit highscores to Gamble Fighterz!
 
-#### *[LIVE APP](https://theescaperoom.vercel.app/)*
+#### *[LIVE APP](https://gamble-fighterz.vercel.app/)*
 
 #### *[FRONTEND REPO](https://github.com/JakelTheDeveloper/gamble-fighterz-app)*
 
